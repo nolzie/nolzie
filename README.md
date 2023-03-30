@@ -8,7 +8,7 @@
 <p dir="auto"><code>whoami</code> Undergraduate Data Scientist at Santos </p>
 </li>
 <li>
-<p dir="auto"><code>uptime</code> 20 years</p>
+<p dir="auto"><code>uptime</code> 21 years</p>
 </li>
 <li>
 <p dir="auto"><code>pwd</code> Adelaide, South Australia</p>
