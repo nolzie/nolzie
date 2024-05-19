@@ -5,16 +5,13 @@
 
 <ul dir="auto">
 <li>
-<p dir="auto"><code>whoami</code> Undergraduate Data Scientist at Santos </p>
+<p dir="auto"><code>whoami</code> Data Scientist & Developer</p>
 </li>
 <li>
-<p dir="auto"><code>uptime</code> 21 years</p>
+<p dir="auto"><code>uptime</code> 22 years</p>
 </li>
 <li>
 <p dir="auto"><code>pwd</code> Adelaide, South Australia</p>
-</li>
-<li>
-<p dir="auto"><code>ps -a</code> Currently studying a Bachelor of Mathematical and Computer Sciences</p>
 </li>
 </ul>
 </article>
