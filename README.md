@@ -8,7 +8,7 @@
 <p dir="auto"><code>whoami</code> Data Scientist & Developer</p>
 </li>
 <li>
-<p dir="auto"><code>uptime</code> 22 years</p>
+<p dir="auto"><code>uptime</code> 23 years</p>
 </li>
 <li>
 <p dir="auto"><code>pwd</code> Adelaide, South Australia</p>
